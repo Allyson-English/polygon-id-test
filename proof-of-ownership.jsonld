@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "ProofOfOwnership": {
-        "@id": "https://github.com/Allyson-English/polygon-id-test/blob/main/proof-of-humanity.jsonld#ProofOfOwnership",
+        "@id": "https://github.com/Allyson-English/polygon-id-test/blob/main/proof-of-ownership.jsonld#ProofOfOwnership",
         "@context": {
           "@version": 1.1,
           "@protected": true,

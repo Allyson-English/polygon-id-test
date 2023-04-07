@@ -3,7 +3,7 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://github.com/Allyson-English/polygon-id-test/blob/main/proof-of-humanity.jsonld",
+      "jsonLdContext": "https://github.com/Allyson-English/polygon-id-test/blob/main/proof-of-ownership.jsonld",
       "jsonSchema": "https://github.com/Allyson-English/polygon-id-test/blob/main/proof-of-ownership.json"
     }
   },
