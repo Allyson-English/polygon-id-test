@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "ProofOfOwnership": {
-        "@id": "https://github.com/Allyson-English/polygon-id-test/blob/main/proof-of-ownership.jsonld#ProofOfOwnership",
+        "@id": "https://raw.githubusercontent.com/Allyson-English/polygon-id-test/main/proof-of-ownership.jsonld#ProofOfOwnership",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://github.com/Allyson-English/polygon-id-test/blob/main/proof-of-ownership-vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/Allyson-English/polygon-id-test/main/proof-of-ownership-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "owner": {
             "@id": "vocab:owner",

@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://github.com/Allyson-English/polygon-id-test/blob/main/proof-of-ownership.jsonld",
-      "jsonSchema": "https://github.com/Allyson-English/polygon-id-test/blob/main/proof-of-ownership.json"
+      "jsonLdContext": "https://raw.githubusercontent.com/Allyson-English/polygon-id-test/main/proof-of-ownership.jsonld",
+      "jsonSchema": "https://raw.githubusercontent.com/Allyson-English/polygon-id-test/main/proof-of-ownership.json"
     }
   },
   "required": [
